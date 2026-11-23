@@ -113,6 +113,7 @@ else:
 
 ## Output :
 
+<img width="450" height="80" alt="Screenshot 2026-11-23 093124" src="https://github.com/user-attachments/assets/2a6a29f7-519d-42f8-bd1e-0bc860867c6d" />
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
